@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doador.api", "Doador.api\Doador.api.csproj", "{76CE5AFA-E772-4F8E-BDF6-1C7CCB721BF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doador.Service", "Doador.service\Doador.Service.csproj", "{2B48D34C-7B06-4E74-8D9D-FCAAEEA4F3EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doador.Domain", "Doador.domain\Doador.Domain.csproj", "{B866B764-F4AB-4A29-AF45-A97A3F23B500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doador.Repository", "Doador.repository\Doador.Repository.csproj", "{29349B0F-C7CA-477A-B795-23F8BBA3BA2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76CE5AFA-E772-4F8E-BDF6-1C7CCB721BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CE5AFA-E772-4F8E-BDF6-1C7CCB721BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CE5AFA-E772-4F8E-BDF6-1C7CCB721BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CE5AFA-E772-4F8E-BDF6-1C7CCB721BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B48D34C-7B06-4E74-8D9D-FCAAEEA4F3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B48D34C-7B06-4E74-8D9D-FCAAEEA4F3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B48D34C-7B06-4E74-8D9D-FCAAEEA4F3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B48D34C-7B06-4E74-8D9D-FCAAEEA4F3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B866B764-F4AB-4A29-AF45-A97A3F23B500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B866B764-F4AB-4A29-AF45-A97A3F23B500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B866B764-F4AB-4A29-AF45-A97A3F23B500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B866B764-F4AB-4A29-AF45-A97A3F23B500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29349B0F-C7CA-477A-B795-23F8BBA3BA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29349B0F-C7CA-477A-B795-23F8BBA3BA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29349B0F-C7CA-477A-B795-23F8BBA3BA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29349B0F-C7CA-477A-B795-23F8BBA3BA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E286C1FA-791C-4A8D-ACCC-CBB98E5D8D24}
+	EndGlobalSection
+EndGlobal
